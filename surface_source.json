@@ -1,0 +1,682 @@
+{
+  "app": {
+    "app_store_get_status": "200",
+    "app_store_id": "6782139553",
+    "kids": false,
+    "monetization": "free with optional one-time unlock",
+    "name": "Sono Note"
+  },
+  "authority_anchors": {
+    "index": [
+      "voice notes",
+      "transcripts",
+      "summaries"
+    ],
+    "privacy": [
+      "Apple Speech",
+      "network-based speech recognition"
+    ]
+  },
+  "authority_sources": [
+    "00_Standards/localization.md",
+    "00_Standards/kids-compliance.md",
+    "00_Standards/app-requirements.md",
+    "authoritative-session/support_surface_contract.json",
+    "authoritative-session/crosspromo_config.json"
+  ],
+  "base_url": "https://alice51849.github.io/sono-note-support/",
+  "content": {
+    "en-AU": {
+      "index": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device.",
+        "eyebrow": "Official support site",
+        "heading": "Sono Note",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device.",
+        "sections": [
+          [
+            "What the app does",
+            "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device."
+          ],
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ]
+        ],
+        "title": "Sono Note — Official support site"
+      },
+      "privacy": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes. Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription.",
+        "eyebrow": "Privacy",
+        "heading": "Sono Note · Privacy",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes.",
+        "sections": [
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes."
+          ],
+          [
+            "Accounts, ads and tracking",
+            "No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Privacy — Sono Note"
+      },
+      "support": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support. Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes.",
+        "eyebrow": "Support",
+        "heading": "Sono Note · Support",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support.",
+        "sections": [
+          [
+            "What the app does",
+            "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device."
+          ],
+          [
+            "Troubleshooting",
+            "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support."
+          ],
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes. No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Support — Sono Note"
+      }
+    },
+    "en-CA": {
+      "index": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device.",
+        "eyebrow": "Official support site",
+        "heading": "Sono Note",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device.",
+        "sections": [
+          [
+            "What the app does",
+            "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device."
+          ],
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ]
+        ],
+        "title": "Sono Note — Official support site"
+      },
+      "privacy": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes. Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription.",
+        "eyebrow": "Privacy",
+        "heading": "Sono Note · Privacy",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes.",
+        "sections": [
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes."
+          ],
+          [
+            "Accounts, ads and tracking",
+            "No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Privacy — Sono Note"
+      },
+      "support": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support. Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes.",
+        "eyebrow": "Support",
+        "heading": "Sono Note · Support",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support.",
+        "sections": [
+          [
+            "What the app does",
+            "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device."
+          ],
+          [
+            "Troubleshooting",
+            "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support."
+          ],
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes. No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Support — Sono Note"
+      }
+    },
+    "en-GB": {
+      "index": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device.",
+        "eyebrow": "Official support site",
+        "heading": "Sono Note",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device.",
+        "sections": [
+          [
+            "What the app does",
+            "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device."
+          ],
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ]
+        ],
+        "title": "Sono Note — Official support site"
+      },
+      "privacy": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes. Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription.",
+        "eyebrow": "Privacy",
+        "heading": "Sono Note · Privacy",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes.",
+        "sections": [
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes."
+          ],
+          [
+            "Accounts, ads and tracking",
+            "No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Privacy — Sono Note"
+      },
+      "support": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support. Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes.",
+        "eyebrow": "Support",
+        "heading": "Sono Note · Support",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support.",
+        "sections": [
+          [
+            "What the app does",
+            "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device."
+          ],
+          [
+            "Troubleshooting",
+            "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support."
+          ],
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes. No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Support — Sono Note"
+      }
+    },
+    "en-US": {
+      "index": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device.",
+        "eyebrow": "Official support site",
+        "heading": "Sono Note",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device.",
+        "sections": [
+          [
+            "What the app does",
+            "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device."
+          ],
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ]
+        ],
+        "title": "Sono Note — Official support site"
+      },
+      "privacy": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes. Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription.",
+        "eyebrow": "Privacy",
+        "heading": "Sono Note · Privacy",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes.",
+        "sections": [
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes."
+          ],
+          [
+            "Accounts, ads and tracking",
+            "No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Privacy — Sono Note"
+      },
+      "support": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support. Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes.",
+        "eyebrow": "Support",
+        "heading": "Sono Note · Support",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support.",
+        "sections": [
+          [
+            "What the app does",
+            "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device."
+          ],
+          [
+            "Troubleshooting",
+            "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support."
+          ],
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes. No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Support — Sono Note"
+      }
+    },
+    "or-IN": {
+      "index": {
+        "app_name": "Sono Note",
+        "contact": "ସହାୟତା ପାଇଁ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଏବଂ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ପଠାନ୍ତୁ।",
+        "description": "କଣ୍ଠସ୍ୱର note ରେକର୍ଡ କରନ୍ତୁ ଏବଂ ଡିଭାଇସରେ ସଜାଯାଇଥିବା transcript, summary, କାର୍ଯ୍ୟ ଏବଂ follow-up draft ତିଆରି କରନ୍ତୁ।",
+        "eyebrow": "ଆଧିକାରିକ ସହାୟତା ସାଇଟ୍",
+        "heading": "Sono Note",
+        "labels": {
+          "app_store": "App Storeରେ ଦେଖନ୍ତୁ",
+          "contact": "ଯୋଗାଯୋଗ",
+          "home": "ମୁଖ୍ୟ ପୃଷ୍ଠା",
+          "language": "ଭାଷା",
+          "privacy": "ଗୋପନୀୟତା",
+          "support": "ସହାୟତା"
+        },
+        "lead": "କଣ୍ଠସ୍ୱର note ରେକର୍ଡ କରନ୍ତୁ ଏବଂ ଡିଭାଇସରେ ସଜାଯାଇଥିବା transcript, summary, କାର୍ଯ୍ୟ ଏବଂ follow-up draft ତିଆରି କରନ୍ତୁ।",
+        "sections": [
+          [
+            "Appଟି କଣ କରେ",
+            "କଣ୍ଠସ୍ୱର note ରେକର୍ଡ କରନ୍ତୁ ଏବଂ ଡିଭାଇସରେ ସଜାଯାଇଥିବା transcript, summary, କାର୍ଯ୍ୟ ଏବଂ follow-up draft ତିଆରି କରନ୍ତୁ।"
+          ],
+          [
+            "ତଥ୍ୟ ଓ ଗୋପନୀୟତା",
+            "ରେକର୍ଡିଂ, transcript ଓ ତିଆରି note ଆପଣଙ୍କ ଡିଭାଇସରେ ରହେ ଏବଂ ବିକାଶକର୍ତ୍ତାଙ୍କୁ ପଠାଯାଏ ନାହିଁ। ସମର୍ଥିତ ଥିଲେ Apple Speech ଡିଭାଇସରେ ପରିଚୟକୁ ପ୍ରାଥମିକତା ଦିଏ, କିନ୍ତୁ କିଛି ଭାଷା, ଡିଭାଇସ କିମ୍ବା mode ପାଇଁ Apple network-based speech recognition ବ୍ୟବହାର କରିପାରେ।"
+          ],
+          [
+            "କ୍ରୟ",
+            "ମୁଖ୍ୟ ବ୍ୟବହାର ମାଗଣାରେ ପରୀକ୍ଷା କରିହେବ। ଇଚ୍ଛାଧୀନ ଏକମାତ୍ର Pro କ୍ରୟ Apple ପରିଚାଳନା କରେ; ସଦସ୍ୟତା ନାହିଁ।"
+          ]
+        ],
+        "title": "Sono Note — ଆଧିକାରିକ ସହାୟତା ସାଇଟ୍"
+      },
+      "privacy": {
+        "app_name": "Sono Note",
+        "contact": "ସହାୟତା ପାଇଁ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଏବଂ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ପଠାନ୍ତୁ।",
+        "description": "ରେକର୍ଡିଂ, transcript ଓ ତିଆରି note ଆପଣଙ୍କ ଡିଭାଇସରେ ରହେ ଏବଂ ବିକାଶକର୍ତ୍ତାଙ୍କୁ ପଠାଯାଏ ନାହିଁ। ସମର୍ଥିତ ଥିଲେ Apple Speech ଡିଭାଇସରେ ପରିଚୟକୁ ପ୍ରାଥମିକତା ଦିଏ, କିନ୍ତୁ କିଛି ଭାଷା, ଡିଭାଇସ କିମ୍ବା mode ପାଇଁ Apple network-based speech recognition ବ୍ୟବହାର କରିପାରେ। ମୁଖ୍ୟ ବ୍ୟବହାର ମାଗଣାରେ ପରୀକ୍ଷା କରିହେବ। ଇଚ୍ଛାଧୀନ ଏକମାତ୍ର Pro କ୍ରୟ Apple ପରିଚାଳନା କରେ; ସଦସ୍ୟତା ନାହିଁ।",
+        "eyebrow": "ଗୋପନୀୟତା",
+        "heading": "Sono Note · ଗୋପନୀୟତା",
+        "labels": {
+          "app_store": "App Storeରେ ଦେଖନ୍ତୁ",
+          "contact": "ଯୋଗାଯୋଗ",
+          "home": "ମୁଖ୍ୟ ପୃଷ୍ଠା",
+          "language": "ଭାଷା",
+          "privacy": "ଗୋପନୀୟତା",
+          "support": "ସହାୟତା"
+        },
+        "lead": "ରେକର୍ଡିଂ, transcript ଓ ତିଆରି note ଆପଣଙ୍କ ଡିଭାଇସରେ ରହେ ଏବଂ ବିକାଶକର୍ତ୍ତାଙ୍କୁ ପଠାଯାଏ ନାହିଁ। ସମର୍ଥିତ ଥିଲେ Apple Speech ଡିଭାଇସରେ ପରିଚୟକୁ ପ୍ରାଥମିକତା ଦିଏ, କିନ୍ତୁ କିଛି ଭାଷା, ଡିଭାଇସ କିମ୍ବା mode ପାଇଁ Apple network-based speech recognition ବ୍ୟବହାର କରିପାରେ।",
+        "sections": [
+          [
+            "ତଥ୍ୟ ଓ ଗୋପନୀୟତା",
+            "ରେକର୍ଡିଂ, transcript ଓ ତିଆରି note ଆପଣଙ୍କ ଡିଭାଇସରେ ରହେ ଏବଂ ବିକାଶକର୍ତ୍ତାଙ୍କୁ ପଠାଯାଏ ନାହିଁ। ସମର୍ଥିତ ଥିଲେ Apple Speech ଡିଭାଇସରେ ପରିଚୟକୁ ପ୍ରାଥମିକତା ଦିଏ, କିନ୍ତୁ କିଛି ଭାଷା, ଡିଭାଇସ କିମ୍ବା mode ପାଇଁ Apple network-based speech recognition ବ୍ୟବହାର କରିପାରେ।"
+          ],
+          [
+            "ଆକାଉଣ୍ଟ, ବିଜ୍ଞାପନ ଓ ଟ୍ରାକିଂ",
+            "କୌଣସି ଆକାଉଣ୍ଟ ଦରକାର ନାହିଁ। Appରେ ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ, App ମଧ୍ୟରେ ଟ୍ରାକିଂ କିମ୍ବା ତୃତୀୟ-ପକ୍ଷ ବିଶ୍ଳେଷଣ ନାହିଁ।"
+          ],
+          [
+            "କ୍ରୟ",
+            "ମୁଖ୍ୟ ବ୍ୟବହାର ମାଗଣାରେ ପରୀକ୍ଷା କରିହେବ। ଇଚ୍ଛାଧୀନ ଏକମାତ୍ର Pro କ୍ରୟ Apple ପରିଚାଳନା କରେ; ସଦସ୍ୟତା ନାହିଁ।"
+          ],
+          [
+            "ତଥ୍ୟ ବିଲୋପ ଓ ପୁନରୁଦ୍ଧାର",
+            "Appରେ ବିଲୋପ ବିକଳ୍ପ ଥିଲେ ସେଠାରୁ ରେକର୍ଡ ବିଲୋପ କରନ୍ତୁ। App ବିଲୋପ କଲେ ସ୍ଥାନୀୟ container ହଟିଯାଏ; Apple ପରିଚାଳିତ backup ଆପଣଙ୍କ ଡିଭାଇସ ସେଟିଂ ଅନୁସରେ ରହେ।"
+          ]
+        ],
+        "title": "ଗୋପନୀୟତା — Sono Note"
+      },
+      "support": {
+        "app_name": "Sono Note",
+        "contact": "ସହାୟତା ପାଇଁ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଏବଂ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ପଠାନ୍ତୁ।",
+        "description": "Appଟି ବନ୍ଦ କରି ପୁଣି ଖୋଲନ୍ତୁ, App Storeର ସବୁଠାରୁ ନୂତନ ସଂସ୍କରଣ ଇନଷ୍ଟଲ୍ ଅଛି କି ଯାଞ୍ଚ କରନ୍ତୁ। ଇମେଲ୍ କରିବାବେଳେ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଓ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ଲେଖନ୍ତୁ। ରେକର୍ଡିଂ, transcript ଓ ତିଆରି note ଆପଣଙ୍କ ଡିଭାଇସରେ ରହେ ଏବଂ ବିକାଶକର୍ତ୍ତାଙ୍କୁ ପଠାଯାଏ ନାହିଁ। ସମର୍ଥିତ ଥିଲେ Apple Speech ଡିଭାଇସରେ ପରିଚୟକୁ ପ୍ରାଥମିକତା ଦିଏ, କିନ୍ତୁ କିଛି ଭାଷା, ଡିଭାଇସ କିମ୍ବା mode ପାଇଁ Apple network-based speech recognition ବ୍ୟବହାର କରିପାରେ।",
+        "eyebrow": "ସହାୟତା",
+        "heading": "Sono Note · ସହାୟତା",
+        "labels": {
+          "app_store": "App Storeରେ ଦେଖନ୍ତୁ",
+          "contact": "ଯୋଗାଯୋଗ",
+          "home": "ମୁଖ୍ୟ ପୃଷ୍ଠା",
+          "language": "ଭାଷା",
+          "privacy": "ଗୋପନୀୟତା",
+          "support": "ସହାୟତା"
+        },
+        "lead": "Appଟି ବନ୍ଦ କରି ପୁଣି ଖୋଲନ୍ତୁ, App Storeର ସବୁଠାରୁ ନୂତନ ସଂସ୍କରଣ ଇନଷ୍ଟଲ୍ ଅଛି କି ଯାଞ୍ଚ କରନ୍ତୁ। ଇମେଲ୍ କରିବାବେଳେ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଓ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ଲେଖନ୍ତୁ।",
+        "sections": [
+          [
+            "Appଟି କଣ କରେ",
+            "କଣ୍ଠସ୍ୱର note ରେକର୍ଡ କରନ୍ତୁ ଏବଂ ଡିଭାଇସରେ ସଜାଯାଇଥିବା transcript, summary, କାର୍ଯ୍ୟ ଏବଂ follow-up draft ତିଆରି କରନ୍ତୁ।"
+          ],
+          [
+            "ସମସ୍ୟା ସମାଧାନ",
+            "Appଟି ବନ୍ଦ କରି ପୁଣି ଖୋଲନ୍ତୁ, App Storeର ସବୁଠାରୁ ନୂତନ ସଂସ୍କରଣ ଇନଷ୍ଟଲ୍ ଅଛି କି ଯାଞ୍ଚ କରନ୍ତୁ। ଇମେଲ୍ କରିବାବେଳେ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଓ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ଲେଖନ୍ତୁ।"
+          ],
+          [
+            "ତଥ୍ୟ ଓ ଗୋପନୀୟତା",
+            "ରେକର୍ଡିଂ, transcript ଓ ତିଆରି note ଆପଣଙ୍କ ଡିଭାଇସରେ ରହେ ଏବଂ ବିକାଶକର୍ତ୍ତାଙ୍କୁ ପଠାଯାଏ ନାହିଁ। ସମର୍ଥିତ ଥିଲେ Apple Speech ଡିଭାଇସରେ ପରିଚୟକୁ ପ୍ରାଥମିକତା ଦିଏ, କିନ୍ତୁ କିଛି ଭାଷା, ଡିଭାଇସ କିମ୍ବା mode ପାଇଁ Apple network-based speech recognition ବ୍ୟବହାର କରିପାରେ। କୌଣସି ଆକାଉଣ୍ଟ ଦରକାର ନାହିଁ। Appରେ ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ, App ମଧ୍ୟରେ ଟ୍ରାକିଂ କିମ୍ବା ତୃତୀୟ-ପକ୍ଷ ବିଶ୍ଳେଷଣ ନାହିଁ।"
+          ],
+          [
+            "କ୍ରୟ",
+            "ମୁଖ୍ୟ ବ୍ୟବହାର ମାଗଣାରେ ପରୀକ୍ଷା କରିହେବ। ଇଚ୍ଛାଧୀନ ଏକମାତ୍ର Pro କ୍ରୟ Apple ପରିଚାଳନା କରେ; ସଦସ୍ୟତା ନାହିଁ।"
+          ],
+          [
+            "ତଥ୍ୟ ବିଲୋପ ଓ ପୁନରୁଦ୍ଧାର",
+            "Appରେ ବିଲୋପ ବିକଳ୍ପ ଥିଲେ ସେଠାରୁ ରେକର୍ଡ ବିଲୋପ କରନ୍ତୁ। App ବିଲୋପ କଲେ ସ୍ଥାନୀୟ container ହଟିଯାଏ; Apple ପରିଚାଳିତ backup ଆପଣଙ୍କ ଡିଭାଇସ ସେଟିଂ ଅନୁସରେ ରହେ।"
+          ]
+        ],
+        "title": "ସହାୟତା — Sono Note"
+      }
+    }
+  },
+  "hourstag_paid": {},
+  "locale_names": {
+    "ar-SA": "العربية",
+    "bn-BD": "বাংলা",
+    "ca": "Català",
+    "cs": "Čeština",
+    "da": "Dansk",
+    "de-DE": "Deutsch",
+    "el": "Ελληνικά",
+    "en-AU": "English (Australia)",
+    "en-CA": "English (Canada)",
+    "en-GB": "English (United Kingdom)",
+    "en-US": "English (United States)",
+    "es-ES": "Español (España)",
+    "es-MX": "Español (México)",
+    "fi": "Suomi",
+    "fr-CA": "Français (Canada)",
+    "fr-FR": "Français (France)",
+    "gu-IN": "ગુજરાતી",
+    "he": "עברית",
+    "hi": "हिन्दी",
+    "hr": "Hrvatski",
+    "hu": "Magyar",
+    "id": "Bahasa Indonesia",
+    "it": "Italiano",
+    "ja": "日本語",
+    "kn-IN": "ಕನ್ನಡ",
+    "ko": "한국어",
+    "ml-IN": "മലയാളം",
+    "mr-IN": "मराठी",
+    "ms": "Bahasa Melayu",
+    "nl-NL": "Nederlands",
+    "no": "Norsk",
+    "or-IN": "ଓଡ଼ିଆ",
+    "pa-IN": "ਪੰਜਾਬੀ",
+    "pl": "Polski",
+    "pt-BR": "Português (Brasil)",
+    "pt-PT": "Português (Portugal)",
+    "ro": "Română",
+    "ru": "Русский",
+    "sk": "Slovenčina",
+    "sl-SI": "Slovenščina",
+    "sv": "Svenska",
+    "ta-IN": "தமிழ்",
+    "te-IN": "తెలుగు",
+    "th": "ไทย",
+    "tr": "Türkçe",
+    "uk": "Українська",
+    "ur-PK": "اردو",
+    "vi": "Tiếng Việt",
+    "zh-Hans": "简体中文",
+    "zh-Hant": "繁體中文"
+  },
+  "official_locales": [
+    "ar-SA",
+    "bn-BD",
+    "ca",
+    "zh-Hans",
+    "zh-Hant",
+    "hr",
+    "cs",
+    "da",
+    "nl-NL",
+    "en-AU",
+    "en-CA",
+    "en-GB",
+    "en-US",
+    "fi",
+    "fr-CA",
+    "fr-FR",
+    "de-DE",
+    "el",
+    "gu-IN",
+    "he",
+    "hi",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "kn-IN",
+    "ko",
+    "ms",
+    "ml-IN",
+    "mr-IN",
+    "no",
+    "or-IN",
+    "pl",
+    "pt-BR",
+    "pt-PT",
+    "pa-IN",
+    "ro",
+    "ru",
+    "sk",
+    "sl-SI",
+    "es-MX",
+    "es-ES",
+    "sv",
+    "ta-IN",
+    "te-IN",
+    "th",
+    "tr",
+    "uk",
+    "ur-PK",
+    "vi"
+  ],
+  "palette": {
+    "accent": "#7161ef",
+    "accent2": "#a78bfa"
+  },
+  "parent_notice": {},
+  "rtl_locales": [
+    "ar-SA",
+    "he",
+    "ur-PK"
+  ],
+  "schema": "support-required-surfaces/v1",
+  "site_key": "sono-note-support"
+}
