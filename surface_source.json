@@ -1,0 +1,1027 @@
+{
+  "app": {
+    "app_store_get_status": "200",
+    "app_store_id": "6782139553",
+    "kids": false,
+    "monetization": "free with optional one-time unlock",
+    "name": "Sono Note"
+  },
+  "authority_anchors": {
+    "index": [
+      "voice notes",
+      "transcripts",
+      "summaries"
+    ],
+    "privacy": [
+      "Apple Speech",
+      "network-based speech recognition"
+    ]
+  },
+  "authority_sources": [
+    "00_Standards/localization.md",
+    "00_Standards/kids-compliance.md",
+    "00_Standards/app-requirements.md",
+    "authoritative-session/support_surface_contract.json",
+    "authoritative-session/crosspromo_config.json"
+  ],
+  "base_url": "https://alice51849.github.io/sono-note-support/",
+  "content": {
+    "en-AU": {
+      "index": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device.",
+        "eyebrow": "Official support site",
+        "heading": "Sono Note",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device.",
+        "sections": [
+          [
+            "What the app does",
+            "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device."
+          ],
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ]
+        ],
+        "title": "Sono Note — Official support site"
+      },
+      "privacy": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes. Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription.",
+        "eyebrow": "Privacy",
+        "heading": "Sono Note · Privacy",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes.",
+        "sections": [
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes."
+          ],
+          [
+            "Accounts, ads and tracking",
+            "No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Privacy — Sono Note"
+      },
+      "support": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support. Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes.",
+        "eyebrow": "Support",
+        "heading": "Sono Note · Support",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support.",
+        "sections": [
+          [
+            "What the app does",
+            "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device."
+          ],
+          [
+            "Troubleshooting",
+            "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support."
+          ],
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes. No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Support — Sono Note"
+      }
+    },
+    "en-CA": {
+      "index": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device.",
+        "eyebrow": "Official support site",
+        "heading": "Sono Note",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device.",
+        "sections": [
+          [
+            "What the app does",
+            "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device."
+          ],
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ]
+        ],
+        "title": "Sono Note — Official support site"
+      },
+      "privacy": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes. Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription.",
+        "eyebrow": "Privacy",
+        "heading": "Sono Note · Privacy",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes.",
+        "sections": [
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes."
+          ],
+          [
+            "Accounts, ads and tracking",
+            "No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Privacy — Sono Note"
+      },
+      "support": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support. Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes.",
+        "eyebrow": "Support",
+        "heading": "Sono Note · Support",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support.",
+        "sections": [
+          [
+            "What the app does",
+            "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device."
+          ],
+          [
+            "Troubleshooting",
+            "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support."
+          ],
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes. No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Support — Sono Note"
+      }
+    },
+    "en-GB": {
+      "index": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device.",
+        "eyebrow": "Official support site",
+        "heading": "Sono Note",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device.",
+        "sections": [
+          [
+            "What the app does",
+            "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device."
+          ],
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ]
+        ],
+        "title": "Sono Note — Official support site"
+      },
+      "privacy": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes. Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription.",
+        "eyebrow": "Privacy",
+        "heading": "Sono Note · Privacy",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes.",
+        "sections": [
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes."
+          ],
+          [
+            "Accounts, ads and tracking",
+            "No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Privacy — Sono Note"
+      },
+      "support": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support. Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes.",
+        "eyebrow": "Support",
+        "heading": "Sono Note · Support",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support.",
+        "sections": [
+          [
+            "What the app does",
+            "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device."
+          ],
+          [
+            "Troubleshooting",
+            "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support."
+          ],
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes. No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Support — Sono Note"
+      }
+    },
+    "en-US": {
+      "index": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device.",
+        "eyebrow": "Official support site",
+        "heading": "Sono Note",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device.",
+        "sections": [
+          [
+            "What the app does",
+            "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device."
+          ],
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ]
+        ],
+        "title": "Sono Note — Official support site"
+      },
+      "privacy": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes. Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription.",
+        "eyebrow": "Privacy",
+        "heading": "Sono Note · Privacy",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes.",
+        "sections": [
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes."
+          ],
+          [
+            "Accounts, ads and tracking",
+            "No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Privacy — Sono Note"
+      },
+      "support": {
+        "app_name": "Sono Note",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support. Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes.",
+        "eyebrow": "Support",
+        "heading": "Sono Note · Support",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support.",
+        "sections": [
+          [
+            "What the app does",
+            "Record voice notes and turn them into organised transcripts, summaries, action items and follow-up drafts on your device."
+          ],
+          [
+            "Troubleshooting",
+            "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support."
+          ],
+          [
+            "Data and privacy",
+            "Recordings, transcripts and generated notes stay on your device and are not sent to the developer. Apple Speech prefers on-device recognition when supported, but Apple may use network-based speech recognition for some languages, devices or modes. No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "Core use is free to try. An optional one-time Pro purchase is handled by Apple; there is no subscription."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Support — Sono Note"
+      }
+    },
+    "or-IN": {
+      "index": {
+        "app_name": "Sono Note",
+        "contact": "ସହାୟତା ପାଇଁ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଏବଂ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ପଠାନ୍ତୁ।",
+        "description": "କଣ୍ଠସ୍ୱର note ରେକର୍ଡ କରନ୍ତୁ ଏବଂ ଡିଭାଇସରେ ସଜାଯାଇଥିବା transcript, summary, କାର୍ଯ୍ୟ ଏବଂ follow-up draft ତିଆରି କରନ୍ତୁ।",
+        "eyebrow": "ଆଧିକାରିକ ସହାୟତା ସାଇଟ୍",
+        "heading": "Sono Note",
+        "labels": {
+          "app_store": "App Storeରେ ଦେଖନ୍ତୁ",
+          "contact": "ଯୋଗାଯୋଗ",
+          "home": "ମୁଖ୍ୟ ପୃଷ୍ଠା",
+          "language": "ଭାଷା",
+          "privacy": "ଗୋପନୀୟତା",
+          "support": "ସହାୟତା"
+        },
+        "lead": "କଣ୍ଠସ୍ୱର note ରେକର୍ଡ କରନ୍ତୁ ଏବଂ ଡିଭାଇସରେ ସଜାଯାଇଥିବା transcript, summary, କାର୍ଯ୍ୟ ଏବଂ follow-up draft ତିଆରି କରନ୍ତୁ।",
+        "sections": [
+          [
+            "Appଟି କଣ କରେ",
+            "କଣ୍ଠସ୍ୱର note ରେକର୍ଡ କରନ୍ତୁ ଏବଂ ଡିଭାଇସରେ ସଜାଯାଇଥିବା transcript, summary, କାର୍ଯ୍ୟ ଏବଂ follow-up draft ତିଆରି କରନ୍ତୁ।"
+          ],
+          [
+            "ତଥ୍ୟ ଓ ଗୋପନୀୟତା",
+            "ରେକର୍ଡିଂ, transcript ଓ ତିଆରି note ଆପଣଙ୍କ ଡିଭାଇସରେ ରହେ ଏବଂ ବିକାଶକର୍ତ୍ତାଙ୍କୁ ପଠାଯାଏ ନାହିଁ। ସମର୍ଥିତ ଥିଲେ Apple Speech ଡିଭାଇସରେ ପରିଚୟକୁ ପ୍ରାଥମିକତା ଦିଏ, କିନ୍ତୁ କିଛି ଭାଷା, ଡିଭାଇସ କିମ୍ବା mode ପାଇଁ Apple network-based speech recognition ବ୍ୟବହାର କରିପାରେ।"
+          ],
+          [
+            "କ୍ରୟ",
+            "ମୁଖ୍ୟ ବ୍ୟବହାର ମାଗଣାରେ ପରୀକ୍ଷା କରିହେବ। ଇଚ୍ଛାଧୀନ ଏକମାତ୍ର Pro କ୍ରୟ Apple ପରିଚାଳନା କରେ; ସଦସ୍ୟତା ନାହିଁ।"
+          ]
+        ],
+        "title": "Sono Note — ଆଧିକାରିକ ସହାୟତା ସାଇଟ୍"
+      },
+      "privacy": {
+        "app_name": "Sono Note",
+        "contact": "ସହାୟତା ପାଇଁ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଏବଂ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ପଠାନ୍ତୁ।",
+        "description": "ରେକର୍ଡିଂ, transcript ଓ ତିଆରି note ଆପଣଙ୍କ ଡିଭାଇସରେ ରହେ ଏବଂ ବିକାଶକର୍ତ୍ତାଙ୍କୁ ପଠାଯାଏ ନାହିଁ। ସମର୍ଥିତ ଥିଲେ Apple Speech ଡିଭାଇସରେ ପରିଚୟକୁ ପ୍ରାଥମିକତା ଦିଏ, କିନ୍ତୁ କିଛି ଭାଷା, ଡିଭାଇସ କିମ୍ବା mode ପାଇଁ Apple network-based speech recognition ବ୍ୟବହାର କରିପାରେ। ମୁଖ୍ୟ ବ୍ୟବହାର ମାଗଣାରେ ପରୀକ୍ଷା କରିହେବ। ଇଚ୍ଛାଧୀନ ଏକମାତ୍ର Pro କ୍ରୟ Apple ପରିଚାଳନା କରେ; ସଦସ୍ୟତା ନାହିଁ।",
+        "eyebrow": "ଗୋପନୀୟତା",
+        "heading": "Sono Note · ଗୋପନୀୟତା",
+        "labels": {
+          "app_store": "App Storeରେ ଦେଖନ୍ତୁ",
+          "contact": "ଯୋଗାଯୋଗ",
+          "home": "ମୁଖ୍ୟ ପୃଷ୍ଠା",
+          "language": "ଭାଷା",
+          "privacy": "ଗୋପନୀୟତା",
+          "support": "ସହାୟତା"
+        },
+        "lead": "ରେକର୍ଡିଂ, transcript ଓ ତିଆରି note ଆପଣଙ୍କ ଡିଭାଇସରେ ରହେ ଏବଂ ବିକାଶକର୍ତ୍ତାଙ୍କୁ ପଠାଯାଏ ନାହିଁ। ସମର୍ଥିତ ଥିଲେ Apple Speech ଡିଭାଇସରେ ପରିଚୟକୁ ପ୍ରାଥମିକତା ଦିଏ, କିନ୍ତୁ କିଛି ଭାଷା, ଡିଭାଇସ କିମ୍ବା mode ପାଇଁ Apple network-based speech recognition ବ୍ୟବହାର କରିପାରେ।",
+        "sections": [
+          [
+            "ତଥ୍ୟ ଓ ଗୋପନୀୟତା",
+            "ରେକର୍ଡିଂ, transcript ଓ ତିଆରି note ଆପଣଙ୍କ ଡିଭାଇସରେ ରହେ ଏବଂ ବିକାଶକର୍ତ୍ତାଙ୍କୁ ପଠାଯାଏ ନାହିଁ। ସମର୍ଥିତ ଥିଲେ Apple Speech ଡିଭାଇସରେ ପରିଚୟକୁ ପ୍ରାଥମିକତା ଦିଏ, କିନ୍ତୁ କିଛି ଭାଷା, ଡିଭାଇସ କିମ୍ବା mode ପାଇଁ Apple network-based speech recognition ବ୍ୟବହାର କରିପାରେ।"
+          ],
+          [
+            "ଆକାଉଣ୍ଟ, ବିଜ୍ଞାପନ ଓ ଟ୍ରାକିଂ",
+            "କୌଣସି ଆକାଉଣ୍ଟ ଦରକାର ନାହିଁ। Appରେ ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ, App ମଧ୍ୟରେ ଟ୍ରାକିଂ କିମ୍ବା ତୃତୀୟ-ପକ୍ଷ ବିଶ୍ଳେଷଣ ନାହିଁ।"
+          ],
+          [
+            "କ୍ରୟ",
+            "ମୁଖ୍ୟ ବ୍ୟବହାର ମାଗଣାରେ ପରୀକ୍ଷା କରିହେବ। ଇଚ୍ଛାଧୀନ ଏକମାତ୍ର Pro କ୍ରୟ Apple ପରିଚାଳନା କରେ; ସଦସ୍ୟତା ନାହିଁ।"
+          ],
+          [
+            "ତଥ୍ୟ ବିଲୋପ ଓ ପୁନରୁଦ୍ଧାର",
+            "Appରେ ବିଲୋପ ବିକଳ୍ପ ଥିଲେ ସେଠାରୁ ରେକର୍ଡ ବିଲୋପ କରନ୍ତୁ। App ବିଲୋପ କଲେ ସ୍ଥାନୀୟ container ହଟିଯାଏ; Apple ପରିଚାଳିତ backup ଆପଣଙ୍କ ଡିଭାଇସ ସେଟିଂ ଅନୁସରେ ରହେ।"
+          ]
+        ],
+        "title": "ଗୋପନୀୟତା — Sono Note"
+      },
+      "support": {
+        "app_name": "Sono Note",
+        "contact": "ସହାୟତା ପାଇଁ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଏବଂ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ପଠାନ୍ତୁ।",
+        "description": "Appଟି ବନ୍ଦ କରି ପୁଣି ଖୋଲନ୍ତୁ, App Storeର ସବୁଠାରୁ ନୂତନ ସଂସ୍କରଣ ଇନଷ୍ଟଲ୍ ଅଛି କି ଯାଞ୍ଚ କରନ୍ତୁ। ଇମେଲ୍ କରିବାବେଳେ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଓ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ଲେଖନ୍ତୁ। ରେକର୍ଡିଂ, transcript ଓ ତିଆରି note ଆପଣଙ୍କ ଡିଭାଇସରେ ରହେ ଏବଂ ବିକାଶକର୍ତ୍ତାଙ୍କୁ ପଠାଯାଏ ନାହିଁ। ସମର୍ଥିତ ଥିଲେ Apple Speech ଡିଭାଇସରେ ପରିଚୟକୁ ପ୍ରାଥମିକତା ଦିଏ, କିନ୍ତୁ କିଛି ଭାଷା, ଡିଭାଇସ କିମ୍ବା mode ପାଇଁ Apple network-based speech recognition ବ୍ୟବହାର କରିପାରେ।",
+        "eyebrow": "ସହାୟତା",
+        "heading": "Sono Note · ସହାୟତା",
+        "labels": {
+          "app_store": "App Storeରେ ଦେଖନ୍ତୁ",
+          "contact": "ଯୋଗାଯୋଗ",
+          "home": "ମୁଖ୍ୟ ପୃଷ୍ଠା",
+          "language": "ଭାଷା",
+          "privacy": "ଗୋପନୀୟତା",
+          "support": "ସହାୟତା"
+        },
+        "lead": "Appଟି ବନ୍ଦ କରି ପୁଣି ଖୋଲନ୍ତୁ, App Storeର ସବୁଠାରୁ ନୂତନ ସଂସ୍କରଣ ଇନଷ୍ଟଲ୍ ଅଛି କି ଯାଞ୍ଚ କରନ୍ତୁ। ଇମେଲ୍ କରିବାବେଳେ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଓ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ଲେଖନ୍ତୁ।",
+        "sections": [
+          [
+            "Appଟି କଣ କରେ",
+            "କଣ୍ଠସ୍ୱର note ରେକର୍ଡ କରନ୍ତୁ ଏବଂ ଡିଭାଇସରେ ସଜାଯାଇଥିବା transcript, summary, କାର୍ଯ୍ୟ ଏବଂ follow-up draft ତିଆରି କରନ୍ତୁ।"
+          ],
+          [
+            "ସମସ୍ୟା ସମାଧାନ",
+            "Appଟି ବନ୍ଦ କରି ପୁଣି ଖୋଲନ୍ତୁ, App Storeର ସବୁଠାରୁ ନୂତନ ସଂସ୍କରଣ ଇନଷ୍ଟଲ୍ ଅଛି କି ଯାଞ୍ଚ କରନ୍ତୁ। ଇମେଲ୍ କରିବାବେଳେ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଓ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ଲେଖନ୍ତୁ।"
+          ],
+          [
+            "ତଥ୍ୟ ଓ ଗୋପନୀୟତା",
+            "ରେକର୍ଡିଂ, transcript ଓ ତିଆରି note ଆପଣଙ୍କ ଡିଭାଇସରେ ରହେ ଏବଂ ବିକାଶକର୍ତ୍ତାଙ୍କୁ ପଠାଯାଏ ନାହିଁ। ସମର୍ଥିତ ଥିଲେ Apple Speech ଡିଭାଇସରେ ପରିଚୟକୁ ପ୍ରାଥମିକତା ଦିଏ, କିନ୍ତୁ କିଛି ଭାଷା, ଡିଭାଇସ କିମ୍ବା mode ପାଇଁ Apple network-based speech recognition ବ୍ୟବହାର କରିପାରେ। କୌଣସି ଆକାଉଣ୍ଟ ଦରକାର ନାହିଁ। Appରେ ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ, App ମଧ୍ୟରେ ଟ୍ରାକିଂ କିମ୍ବା ତୃତୀୟ-ପକ୍ଷ ବିଶ୍ଳେଷଣ ନାହିଁ।"
+          ],
+          [
+            "କ୍ରୟ",
+            "ମୁଖ୍ୟ ବ୍ୟବହାର ମାଗଣାରେ ପରୀକ୍ଷା କରିହେବ। ଇଚ୍ଛାଧୀନ ଏକମାତ୍ର Pro କ୍ରୟ Apple ପରିଚାଳନା କରେ; ସଦସ୍ୟତା ନାହିଁ।"
+          ],
+          [
+            "ତଥ୍ୟ ବିଲୋପ ଓ ପୁନରୁଦ୍ଧାର",
+            "Appରେ ବିଲୋପ ବିକଳ୍ପ ଥିଲେ ସେଠାରୁ ରେକର୍ଡ ବିଲୋପ କରନ୍ତୁ। App ବିଲୋପ କଲେ ସ୍ଥାନୀୟ container ହଟିଯାଏ; Apple ପରିଚାଳିତ backup ଆପଣଙ୍କ ଡିଭାଇସ ସେଟିଂ ଅନୁସରେ ରହେ।"
+          ]
+        ],
+        "title": "ସହାୟତା — Sono Note"
+      }
+    }
+  },
+  "crosspromo_labels": {
+    "en-AU": {
+      "guides": "More app guides and practical tips",
+      "heading": "More apps from the same developer",
+      "store_note": "Links open the App Store."
+    },
+    "en-CA": {
+      "guides": "More app guides and practical tips",
+      "heading": "More apps from the same developer",
+      "store_note": "Links open the App Store."
+    },
+    "en-GB": {
+      "guides": "More app guides and practical tips",
+      "heading": "More apps from the same developer",
+      "store_note": "Links open the App Store."
+    },
+    "en-US": {
+      "guides": "More app guides and practical tips",
+      "heading": "More apps from the same developer",
+      "store_note": "Links open the App Store."
+    },
+    "or-IN": {
+      "guides": "ଅଧିକ ଆପ୍ ଗାଇଡ୍ ଏବଂ ବ୍ୟବହାର ପରାମର୍ଶ",
+      "heading": "ସେହି ଡେଭେଲପରଙ୍କ ଅଧିକ ଆପ୍",
+      "store_note": "ଲିଙ୍କଗୁଡ଼ିକ App Store ଖୋଲିବ।"
+    }
+  },
+  "crosspromo_source": "ar-SA/index.html",
+  "generated_surfaces": [
+    "en-AU/index.html",
+    "en-AU/privacy.html",
+    "en-AU/support.html",
+    "en-CA/index.html",
+    "en-CA/privacy.html",
+    "en-CA/support.html",
+    "en-GB/index.html",
+    "en-GB/privacy.html",
+    "en-GB/support.html",
+    "en-US/index.html",
+    "en-US/privacy.html",
+    "en-US/support.html",
+    "or-IN/index.html",
+    "or-IN/privacy.html",
+    "or-IN/support.html"
+  ],
+  "hourstag_paid": {},
+  "integration_base": "f0b16dbde72b385269a9969efa9f236af7a2ddb4",
+  "integration_date": "2026-08-29",
+  "locale_names": {
+    "ar-SA": "العربية",
+    "bn-BD": "বাংলা",
+    "ca": "Català",
+    "cs": "Čeština",
+    "da": "Dansk",
+    "de-DE": "Deutsch",
+    "el": "Ελληνικά",
+    "en-AU": "English (Australia)",
+    "en-CA": "English (Canada)",
+    "en-GB": "English (United Kingdom)",
+    "en-US": "English (United States)",
+    "es-ES": "Español (España)",
+    "es-MX": "Español (México)",
+    "fi": "Suomi",
+    "fr-CA": "Français (Canada)",
+    "fr-FR": "Français (France)",
+    "gu-IN": "ગુજરાતી",
+    "he": "עברית",
+    "hi": "हिन्दी",
+    "hr": "Hrvatski",
+    "hu": "Magyar",
+    "id": "Bahasa Indonesia",
+    "it": "Italiano",
+    "ja": "日本語",
+    "kn-IN": "ಕನ್ನಡ",
+    "ko": "한국어",
+    "ml-IN": "മലയാളം",
+    "mr-IN": "मराठी",
+    "ms": "Bahasa Melayu",
+    "nl-NL": "Nederlands",
+    "no": "Norsk",
+    "or-IN": "ଓଡ଼ିଆ",
+    "pa-IN": "ਪੰਜਾਬੀ",
+    "pl": "Polski",
+    "pt-BR": "Português (Brasil)",
+    "pt-PT": "Português (Portugal)",
+    "ro": "Română",
+    "ru": "Русский",
+    "sk": "Slovenčina",
+    "sl-SI": "Slovenščina",
+    "sv": "Svenska",
+    "ta-IN": "தமிழ்",
+    "te-IN": "తెలుగు",
+    "th": "ไทย",
+    "tr": "Türkçe",
+    "uk": "Українська",
+    "ur-PK": "اردو",
+    "vi": "Tiếng Việt",
+    "zh-Hans": "简体中文",
+    "zh-Hant": "繁體中文"
+  },
+  "official_locales": [
+    "ar-SA",
+    "bn-BD",
+    "ca",
+    "zh-Hans",
+    "zh-Hant",
+    "hr",
+    "cs",
+    "da",
+    "nl-NL",
+    "en-AU",
+    "en-CA",
+    "en-GB",
+    "en-US",
+    "fi",
+    "fr-CA",
+    "fr-FR",
+    "de-DE",
+    "el",
+    "gu-IN",
+    "he",
+    "hi",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "kn-IN",
+    "ko",
+    "ms",
+    "ml-IN",
+    "mr-IN",
+    "no",
+    "or-IN",
+    "pl",
+    "pt-BR",
+    "pt-PT",
+    "pa-IN",
+    "ro",
+    "ru",
+    "sk",
+    "sl-SI",
+    "es-MX",
+    "es-ES",
+    "sv",
+    "ta-IN",
+    "te-IN",
+    "th",
+    "tr",
+    "uk",
+    "ur-PK",
+    "vi"
+  ],
+  "palette": {
+    "accent": "#7161ef",
+    "accent2": "#a78bfa"
+  },
+  "parent_notice": {},
+  "preserved_hreflang_aliases": [
+    "en"
+  ],
+  "preserved_root_hreflang_locales": [
+    "en",
+    "en-AU",
+    "en-CA",
+    "en-GB"
+  ],
+  "preserved_root_hreflang_targets": {
+    "index": "https://alice51849.github.io/sono-note-support/",
+    "privacy": "https://alice51849.github.io/sono-note-support/privacy.html",
+    "support": "https://alice51849.github.io/sono-note-support/help.html"
+  },
+  "preserved_sitemap_sha256": "2b99926a85bd6b3b8a2f11f6add7a9b17565c4560974ee28d2a2b8c429a6a4cd",
+  "preserved_surface_sha256": {
+    "ar-SA/index.html": "67b768439e71da1786924f47cfb2878dc8e3fb850fe69529db69a5e2fc0dcd5e",
+    "ar-SA/privacy.html": "0b7fcad9931c262031e1f00b597581cb8274a6a9e849e820832d61cc5df46f05",
+    "ar-SA/support.html": "72880fcdb2c3d339ca64173a7b9a3e1b3d6d27b04ed06f4d679865e0db4d8ce7",
+    "bn-BD/index.html": "548aa1944057568bf631756ede7a17fa7385c42f5209d9178710d6eb706a85ef",
+    "bn-BD/privacy.html": "3cf1d8e2f1988173f88afdaedefe05d776e6f25a3863498545a3d50b4eb0a027",
+    "bn-BD/support.html": "0668274c214a4d8fa73604b084e8630153ab726fc5d85a25c6a6434412212795",
+    "ca/index.html": "19607440860ca7cd7ed7694cf62969b62e6049d2acaa4303d6268c9afd82692b",
+    "ca/privacy.html": "ce09c25f0fa3c05aa3b7bc14525942aceca554b554a8f03c7005a5282ab3bf54",
+    "ca/support.html": "4aa478cf80cbc959efe8d0decdf6c3034a903334d320f51b69f99dcecc8c5a90",
+    "cs/index.html": "7bcc619c4e8977f30f965703a9c1ea2ba1f63ecb90f8b5751476fb338e57708a",
+    "cs/privacy.html": "a6ae2936e0bcbdadde6eedbc5c2ec25b1110e8b3a407de8247098008f5ebbaf1",
+    "cs/support.html": "6643ef9ff49e8df72ee5294d743fd83a52eab94874735dca50f7473411b1bc09",
+    "da/index.html": "387e9e1925520ba8ae98d1b03b835381d95b2c606f18f5eefbcf729f02ca3b63",
+    "da/privacy.html": "32ef1c490280f921928297ae204e3fbb8b51d62ed7817feb8560edc9bc441d1d",
+    "da/support.html": "6c37112e575541fdf8628a693bfe90edcc19e7cc20bf84e652d53e59e291e008",
+    "de-DE/index.html": "1ccf66e3f02ed798a4a6594bf0b626e6501c9daf2856d215fec77046ca78f5d7",
+    "de-DE/privacy.html": "64f3038e61f0c95e46836fe526534a49396f536dd21e128f20aebb7fb67c6398",
+    "de-DE/support.html": "9067faeae51560e424f0c1f18da6f50f49745d7e65a0dea1965965ff80714ea5",
+    "el/index.html": "95dadaa523473759b68a1f9623e867ffcedd8de92f452c669b82b1647da03e8d",
+    "el/privacy.html": "6c49a91deb6a4054df6dd95e2e026142db6b16419edb56bd5328fde2d90d541a",
+    "el/support.html": "edead6f5648b51b553238aba3442281a90fb572553a81b187dd66967b81f5523",
+    "es-ES/index.html": "4ddd237b6ad52647a04679b37264c3bf76e7029d4ddc7b67ec6b0e1041b99566",
+    "es-ES/privacy.html": "59d98b8906c911359917fb745e8a073e59fb9310f8a6f064b54212b706948695",
+    "es-ES/support.html": "5ef7fb63dcab6ac6e4a56f466b249f14b26418f71d0ecd3eaff82ac23d68af6b",
+    "es-MX/index.html": "e4b74899133636e8066db1bd2a4e24c9721c1831d1dde1980b1bf41add03df9b",
+    "es-MX/privacy.html": "e9c10f70924e9d1cc8104319a4de2f58e73e8ea2f847a2dff5e4b9d7d2c43ad6",
+    "es-MX/support.html": "2007720b9b1338de5aff556659b2f273a8ee0b50e8787e0e4ecca0013668e372",
+    "fi/index.html": "bf12fe157c7be6f771261f5c6a7d12099ab2dc9f3b01f6143c245809bd0378a0",
+    "fi/privacy.html": "e7c9abb7dea2de020050be9a176f74232b9745939c58fba0c0612c013e8bf1c5",
+    "fi/support.html": "2fa7b8a74a0dbbd1c569c0c3864f2e4f5b2502b5d1191f459f6c65a8003d1d46",
+    "fr-CA/index.html": "c8186f355290b6ba6d6c253202a3613bf17f9281e3ab2bce31955ff78aeaf82d",
+    "fr-CA/privacy.html": "b2f3b4070101e2a04d4e1b10fd2f59482a932ea2d41beb925b47deef433ea67a",
+    "fr-CA/support.html": "7bf0c31b59227c696296ed6f6e7a850ae1357feb1f4e75c46b785a57bf558693",
+    "fr-FR/index.html": "1d7e0d0f70daee674cb3cd307d6c460eac40a2b758ed99b2b7cce863e6bc227d",
+    "fr-FR/privacy.html": "aba7c2cf68f493bcdbb0e483ad21673a65452cbe654e88d03cdba19931261ba1",
+    "fr-FR/support.html": "6b2cec3326632e9a67bda1cdebbe509b3f65327cfc5630379a6b9a3cba75af75",
+    "gu-IN/index.html": "d0b034d7bd9ab804f46a7dc314c6c655e198641c7e8745d4e884290b825e7043",
+    "gu-IN/privacy.html": "46bec548c5744d4ed0df57f011d3c97e4dc3c8559855ca58b1e06dd27e837a42",
+    "gu-IN/support.html": "c52d95b7791132ffaee33052274470e133c6b83d0509f279ebccf5a15477b91a",
+    "he/index.html": "c1f644d8ddbc227f9e2ca77dfd0b340bdbf89b4ccea6a26a4cf268ef90b557ff",
+    "he/privacy.html": "7641701f64bc53ab74388f73fae89c267bbe1d4109716180abb3666a1189b2d1",
+    "he/support.html": "462ce666c846b83caaef87aa00aec11e51097961eba9e4af4067c4f4f0c64d25",
+    "hi/index.html": "c35f3ff31a40fb5fbba4653d7394ef018b97f37430712a96ccb20c6dfdec84fa",
+    "hi/privacy.html": "fb3fb4edc6e994a27fbbefaa8c4f6d4754eb1d628d8fcce56c41bd166af1b2a2",
+    "hi/support.html": "6963190d231c8bbf1954195dbe6802b59d449f75d3b30fb03188e8b7ed02d678",
+    "hr/index.html": "0f7f59822095ef33cbd8dd2ed0d9358de39445ac1de2a7b76caf053b6207107e",
+    "hr/privacy.html": "90bcda31f5c76764924957d211f6cac7ac99a2e7d133fb7c399127e978898999",
+    "hr/support.html": "a80cb8595d8c8f8ead72ffee8b2ca125381759c5d7dd45c70bf5728e6b3248e2",
+    "hu/index.html": "ac2fa8772afbe10df11d1d141d1b75e67333dc5605ad0f2b4cbf0c8eaef94d72",
+    "hu/privacy.html": "6bf6faa17663568aaa73fb20d1d83da433f2aac5e07200a47e220508d2bc6d8e",
+    "hu/support.html": "507a8de763fe3336f73b6bf733bd83a9656d9eafeca0867fa07e14fe375165c6",
+    "id/index.html": "57d0a67ab836d7986b784106888e56813a202a4d0c1685a02f6ec6fd1a4aedc7",
+    "id/privacy.html": "ead37a7f972c4434c618630341dddc3054c3b8c40f28759cbd8d8c7f2cbbbabd",
+    "id/support.html": "48a0dcaf7ff89e845d096eac549b0c7f889df54b19d3f5b1e82a226e8d55385a",
+    "it/index.html": "042a1e70f7014c41d0f18179bf8340b9467dc9d79ea71f29b0798f2216ac7cce",
+    "it/privacy.html": "9e1bc36a6a05edda2c2a51b2d0f8a96753057fd31512a190541d07983a2e5b3a",
+    "it/support.html": "bcab632a7afd68c56632d5177f2e3405a3df452c0c5fb61325795c6fd86f0431",
+    "ja/index.html": "a714e37096c476ac7c91aa2b0b21138829412b1576c08646ab27d186a1340d87",
+    "ja/privacy.html": "2652c89630bb64916d44084e9f909ecf2b8a04406f3aabec6877e343647a788f",
+    "ja/support.html": "aaf5fd2e8847cc3b19ad09553929f307fa89d99ed797625234ab3a40350bf60d",
+    "kn-IN/index.html": "6c04cfb39bc9aac3a42ce33c38a296756fa908542473fd1d7394225de0891628",
+    "kn-IN/privacy.html": "0325f3d1a260b95f5e5f3203ef6bf4d84382f205e369272303355f82cb3bc197",
+    "kn-IN/support.html": "f83b061a1de05b396114656f743b031e6371fbdfe008020d60e36836e8bd7e04",
+    "ko/index.html": "da4b5d81a07df16693c32fdfac33d98148f9b587f182d3ca4b7339cb85f93b8c",
+    "ko/privacy.html": "3b9b8cb67ebfa0cc881ea79556fefbe8a2e32efe6939b7bafa2f3de3a9d63a80",
+    "ko/support.html": "8fb9deaf431241742397e77a574d345e82684632e25fbe563b1f18f25299d7b6",
+    "ml-IN/index.html": "79bf0722cb65c015ed7702f177569381f6a88d528955678e89639e6b33a4afcd",
+    "ml-IN/privacy.html": "251d3c35b4944acaca59dbe0422c7b1bc4fe059676b1393257028ac850d533da",
+    "ml-IN/support.html": "194015b621c0d59c18343cf5eb3d03637bb4f84469379951abd82094cb4f59c8",
+    "mr-IN/index.html": "7d157873e240d16ea47bf9ca5f653b3d5672d36d401946817a15f368500462a4",
+    "mr-IN/privacy.html": "523f6deee598bdf2468b2c1df016d8ab11979fd6573b1ae8bf373ba4d89ca0b2",
+    "mr-IN/support.html": "0e65ad4ec189738888d29a86470fc9f7e8eb0d40899deee4ab786fc74e10a68d",
+    "ms/index.html": "ce9c738e8e92e33e617f400090ce6cc8a148511ab504e267ddc29a8594176d8d",
+    "ms/privacy.html": "91aaca1d59fed34a39ddf69ebd2ea47fb7720f80f0e69c00680e203e85adaab7",
+    "ms/support.html": "c0231585abfb9c7804557779b74071c7a38057ea2ba0b4aedf6bcb4e18710212",
+    "nl-NL/index.html": "e46da8b7eee19ddf9fa11ef5db29d76f795fce1b2799757360618d383c4c7705",
+    "nl-NL/privacy.html": "b3376fbf75aa6af12ebbb45b68191de5cb004148a1355d12bba65a8e517c16d7",
+    "nl-NL/support.html": "05067052d5156fe64f8b9b93fa18257dcbd9b44d25f006b8e345b5e9862f5923",
+    "no/index.html": "7d011902879b3b71192cf4f7fd6339b5a875392d11d2f78a776a04cbb563e602",
+    "no/privacy.html": "734831f7e975c178261239e9e5731b872a3c9cf0dd74b36d79544631158ea722",
+    "no/support.html": "71fb68a948b6d8eae3b61a22ebc469ef1c44961997f05a4383bf9724a0e89a2d",
+    "pa-IN/index.html": "78f0b971987c00256352b2821c0b6053c3fbfc0bda18373588f73efb2ccbb22e",
+    "pa-IN/privacy.html": "597ecb22265a1a9bf68d032e238c4fcd8a4674bee98623abe2a6cbba3acb0daa",
+    "pa-IN/support.html": "96a77855282df5059d60eb8bd6e58bf6fdb7f7ebdd4feb823e2990c2bc5d02c1",
+    "pl/index.html": "cfd8ce15d42e497d979d1264b10719acd4bbcd31868f644587439c55925c9a44",
+    "pl/privacy.html": "efaf082b0b368c7ce0e2cf84a519123df5bb78e560d30d57a7d489797448fae0",
+    "pl/support.html": "2f9aff28027925e9f9450540f26916bfd1de83940bf09de03f6871d9d26c68eb",
+    "pt-BR/index.html": "14bad5057b3b1a91f5703732f832de332630e41a88c0d0326e5fd3f60c507f34",
+    "pt-BR/privacy.html": "648f9f657ac3f22059c5dc9fc3ec32507b17aa4954db22d4f37fd9e006e7f5ab",
+    "pt-BR/support.html": "165fee5f9e17ea2716f992bf20f301bcc8f8194f5a122b6392ce6c9fc94d53fc",
+    "pt-PT/index.html": "cd742d9908cfc904b2b0579347eba6308ae2fa0be12295f9af46019daaa02691",
+    "pt-PT/privacy.html": "7701d2f38067d7dd0ca82fa861c6c2af6c60194d21fe89c72643ab908c046500",
+    "pt-PT/support.html": "7aacbf31f0cd6cccb718689a967d24fcd3d8fe28abf46df8d29205b6fd1971c3",
+    "ro/index.html": "d643fadd415a9835c5578ad8c7220d63d87bc20306d15a7d2d6f6866f2ceffd5",
+    "ro/privacy.html": "4b6809ffbe6de1058bc4e05541b223a7e60252f904fafbe17e672669a8baaf7f",
+    "ro/support.html": "6287b0032b2ac337a98b7a60798979b3dc890f5164ca8fb26215bdd551070583",
+    "ru/index.html": "d8c98d0c9667b28280c5fd03d6eedb229f90cf14130f7a21920d8279a5cdb97a",
+    "ru/privacy.html": "b827a43c6cc626e56e57c45d276043f64492409a355075e8d536ca071d5a393e",
+    "ru/support.html": "4f1d2d99ecf323d3d4f566f06222d05d9eaed67f27a70135b005fa4e6418569b",
+    "sk/index.html": "d2afdfcd88a62f32456b80c68ff9d61cb2d5c9ff893dc8b323c8fd79b03ea7a2",
+    "sk/privacy.html": "d07e98891a58dce41d5f68c97fdc06fcf09ea9df350315d4cbcfe2afb5e45e69",
+    "sk/support.html": "dcfae95ff1aaf82b7fe3c5e51ef2bbbe97023dddd8f5b8de17fd5af2ae5bbde2",
+    "sl-SI/index.html": "579bfea7356cbf654f72ccb362028e863fcbba8fd8b447c700c7414d34a8f9e1",
+    "sl-SI/privacy.html": "3a5182a45161058e17434bd1d7132353ccd2aab00747089a14a9ce992ab9be0a",
+    "sl-SI/support.html": "b0075af8b426890aa20eec2e7787bc61149a04f947279bc24aab08d9525b2263",
+    "sv/index.html": "f20d619a47e924d07b4a7cc4a5b604d4dc0df2100df58176c77bbfbab6e113e1",
+    "sv/privacy.html": "eabd2739ba782674bd88e8e5867f112ae85f941107139c338c04e295f4c9de1a",
+    "sv/support.html": "662fd0d144173462d6ee9145b24929d9cc3ff278193cc75c136fdaa5e9b17d85",
+    "ta-IN/index.html": "49b050f8e079716f11bf27a12727952dd6bb3b9cf1032607a9a6d60428227623",
+    "ta-IN/privacy.html": "4faba5c50774275010d1e0d3825d27db9f21a68ce68a353a2e7c1acf66d2e2a7",
+    "ta-IN/support.html": "6b8e92d43505d2ef06bca07177494932a58a5565fb47c096c28fbcb65d67c0aa",
+    "te-IN/index.html": "64644eff6689ac90e7bf8a9985dcaf6d1745c83cbef41322e730854fb13bf6cb",
+    "te-IN/privacy.html": "ba5abe797798a51a7131a4d0f942cec96b45938d24bb2dd7e4da547bcf9cef59",
+    "te-IN/support.html": "479258f4236fb7b443cbd9f3be2257704ad7adc167ecdc967bd7a07a56b217c3",
+    "th/index.html": "12520227d79bed42d10a8a656d2988b27a4e14ae6f88adffe75b3b8abe840dea",
+    "th/privacy.html": "f1aa2ec7507f313badd8b58ad038d74cd8f94939b1da39ae0a2050593590d9d8",
+    "th/support.html": "dd2505d58e4e95cb0f93a241d02c793be72ef9668cfaa3bd23e544cd342d9f6b",
+    "tr/index.html": "d5ee372a96453695b5459366bf5a87f0bb5510bc77dfe9ee1626da589a78e0b1",
+    "tr/privacy.html": "7a32659bf5dbc66076662727711ee59a08538afb67615058e720240347b08b43",
+    "tr/support.html": "b494b41c4271cc1d0cbb1d8fa8882960e9d31bf505a56e2464feac693454e8a8",
+    "uk/index.html": "63a4312ace2704257c2d94b92d0f1700210884ae351ef22b2d7c73083c09b7c5",
+    "uk/privacy.html": "28b5fc6f8c25689ef851210b070307704decd8189277d476495265823d0899de",
+    "uk/support.html": "a415026963a90f47de092e5698d83a3db656e8a8fd1662e39d877e6601edcf5e",
+    "ur-PK/index.html": "64b3ad31c2e9270d8d3bc7af299d3c43e7d5b0afb2775056f0e50247d51ca7e4",
+    "ur-PK/privacy.html": "19648a9a0824d30ae712bc6a47d77541b926e15464abed1d4aa888ff652d78fd",
+    "ur-PK/support.html": "5f562c9abf7742065dc7f492f1cd087b1ad296c5aa3ab7fe8ce14fcdb01364dc",
+    "vi/index.html": "a39f0d2ed7dee021119cae81d066f8e265e0c891ffe0f4165e13ffd2f8d0d5e1",
+    "vi/privacy.html": "3250516800d9ec1fbc870f7e3cf70bf0eb843269998f54081c279abe9c48cae3",
+    "vi/support.html": "b998bfdeb20fa843b6a268ca9abe69e6becb6626db4873b6258242f1ad2b9730",
+    "zh-Hans/index.html": "843f1733d94194267cae8dbee99cd6c7cb685b0455b5a03d2022dfa13bc7c80e",
+    "zh-Hans/privacy.html": "74903d8930863299be734d3111a6ceee3b098a159c6b694e0a45afe5da5f2770",
+    "zh-Hans/support.html": "c1c48d1c004f9f465334010dae25aa45005e9714c8668869e1e0524aa19b63f8",
+    "zh-Hant/index.html": "e4ca549ec8908e67ee2e2a2e8425dafdeda6e02a73719f4ac3d1b3146ca3cfc3",
+    "zh-Hant/privacy.html": "319b6fc9b2a5edbee554fcae3ae501539ccf608b7e7ec286969bed5860060557",
+    "zh-Hant/support.html": "0a47066249c346a9daf263ab1d2af4417281ea58b5b70c51f9b113ea3a6c61e3"
+  },
+  "preserved_surfaces": [
+    "ar-SA/index.html",
+    "ar-SA/privacy.html",
+    "ar-SA/support.html",
+    "bn-BD/index.html",
+    "bn-BD/privacy.html",
+    "bn-BD/support.html",
+    "ca/index.html",
+    "ca/privacy.html",
+    "ca/support.html",
+    "cs/index.html",
+    "cs/privacy.html",
+    "cs/support.html",
+    "da/index.html",
+    "da/privacy.html",
+    "da/support.html",
+    "de-DE/index.html",
+    "de-DE/privacy.html",
+    "de-DE/support.html",
+    "el/index.html",
+    "el/privacy.html",
+    "el/support.html",
+    "es-ES/index.html",
+    "es-ES/privacy.html",
+    "es-ES/support.html",
+    "es-MX/index.html",
+    "es-MX/privacy.html",
+    "es-MX/support.html",
+    "fi/index.html",
+    "fi/privacy.html",
+    "fi/support.html",
+    "fr-CA/index.html",
+    "fr-CA/privacy.html",
+    "fr-CA/support.html",
+    "fr-FR/index.html",
+    "fr-FR/privacy.html",
+    "fr-FR/support.html",
+    "gu-IN/index.html",
+    "gu-IN/privacy.html",
+    "gu-IN/support.html",
+    "he/index.html",
+    "he/privacy.html",
+    "he/support.html",
+    "hi/index.html",
+    "hi/privacy.html",
+    "hi/support.html",
+    "hr/index.html",
+    "hr/privacy.html",
+    "hr/support.html",
+    "hu/index.html",
+    "hu/privacy.html",
+    "hu/support.html",
+    "id/index.html",
+    "id/privacy.html",
+    "id/support.html",
+    "it/index.html",
+    "it/privacy.html",
+    "it/support.html",
+    "ja/index.html",
+    "ja/privacy.html",
+    "ja/support.html",
+    "kn-IN/index.html",
+    "kn-IN/privacy.html",
+    "kn-IN/support.html",
+    "ko/index.html",
+    "ko/privacy.html",
+    "ko/support.html",
+    "ml-IN/index.html",
+    "ml-IN/privacy.html",
+    "ml-IN/support.html",
+    "mr-IN/index.html",
+    "mr-IN/privacy.html",
+    "mr-IN/support.html",
+    "ms/index.html",
+    "ms/privacy.html",
+    "ms/support.html",
+    "nl-NL/index.html",
+    "nl-NL/privacy.html",
+    "nl-NL/support.html",
+    "no/index.html",
+    "no/privacy.html",
+    "no/support.html",
+    "pa-IN/index.html",
+    "pa-IN/privacy.html",
+    "pa-IN/support.html",
+    "pl/index.html",
+    "pl/privacy.html",
+    "pl/support.html",
+    "pt-BR/index.html",
+    "pt-BR/privacy.html",
+    "pt-BR/support.html",
+    "pt-PT/index.html",
+    "pt-PT/privacy.html",
+    "pt-PT/support.html",
+    "ro/index.html",
+    "ro/privacy.html",
+    "ro/support.html",
+    "ru/index.html",
+    "ru/privacy.html",
+    "ru/support.html",
+    "sk/index.html",
+    "sk/privacy.html",
+    "sk/support.html",
+    "sl-SI/index.html",
+    "sl-SI/privacy.html",
+    "sl-SI/support.html",
+    "sv/index.html",
+    "sv/privacy.html",
+    "sv/support.html",
+    "ta-IN/index.html",
+    "ta-IN/privacy.html",
+    "ta-IN/support.html",
+    "te-IN/index.html",
+    "te-IN/privacy.html",
+    "te-IN/support.html",
+    "th/index.html",
+    "th/privacy.html",
+    "th/support.html",
+    "tr/index.html",
+    "tr/privacy.html",
+    "tr/support.html",
+    "uk/index.html",
+    "uk/privacy.html",
+    "uk/support.html",
+    "ur-PK/index.html",
+    "ur-PK/privacy.html",
+    "ur-PK/support.html",
+    "vi/index.html",
+    "vi/privacy.html",
+    "vi/support.html",
+    "zh-Hans/index.html",
+    "zh-Hans/privacy.html",
+    "zh-Hans/support.html",
+    "zh-Hant/index.html",
+    "zh-Hant/privacy.html",
+    "zh-Hant/support.html"
+  ],
+  "rtl_locales": [
+    "ar-SA",
+    "he",
+    "ur-PK"
+  ],
+  "schema": "support-required-surfaces/v1",
+  "site_key": "sono-note-support",
+  "verified_app_store_urls": [
+    "https://apps.apple.com/app/id6781337213?pt=118326163&ct=sup_sononote&mt=8",
+    "https://apps.apple.com/app/id6782139553",
+    "https://apps.apple.com/app/id6782139553)**",
+    "https://apps.apple.com/app/id6785004775?pt=118326163&ct=sup_sononote&mt=8",
+    "https://apps.apple.com/app/id6791658210?pt=118326163&ct=sup_sononote&mt=8",
+    "https://apps.apple.com/app/id6798814385?pt=118326163&ct=sup_sononote&mt=8",
+    "https://apps.apple.com/app/id{app_id"
+  ]
+}
