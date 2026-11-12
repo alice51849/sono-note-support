@@ -16,3 +16,9 @@
 ## Portfolio
 
 - [All public iOS apps](https://alice51849.github.io/ios-app-guide/apps/index.html)
+
+## Questions before you download
+
+<!-- sqe-blitz:start -->
+- [Transcription app: questions before you download (English)](https://open.cait518.cc/sono-note-support/transcription-app-questions.html)
+<!-- sqe-blitz:end -->
