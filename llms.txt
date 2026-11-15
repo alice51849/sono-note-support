@@ -21,4 +21,5 @@
 
 <!-- sqe-blitz:start -->
 - [Transcription app: questions before you download (English)](https://open.cait518.cc/sono-note-support/transcription-app-questions.html)
+- [What is Sono Note? Voice-to-text notes app: who it is for, pricing, differences (English)](https://open.cait518.cc/sono-note-support/what-is-sononote.html)
 <!-- sqe-blitz:end -->
